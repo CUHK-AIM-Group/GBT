@@ -4,9 +4,9 @@
 [stars-img]: https://img.shields.io/github/stars/ZhihaoPENG-CityU/MM21---AGCN?color=yellow
 [stars-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/stargazers
 [fork-img]: https://img.shields.io/github/forks/ZhihaoPENG-CityU/MM21---AGCN?color=lightblue&label=fork
-[![Made with Python][python-img]][agcn-url]
-[![GitHub stars][stars-img]][stars-url]
-[![GitHub forks][fork-img]][fork-url]
+[![Made with Python][python-img]]
+[![GitHub stars][stars-img]]
+[![GitHub forks][fork-img]]
 
 Our four brain-oriented submitted papers are all accepted by MICCAI 2024 (one Early Accept), where our GBT is the newest research on brain fMRI data analysis, focusing on prompting the representation learning development of the brain data analysis community.
 # Abstract
