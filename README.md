@@ -35,4 +35,4 @@ python -m source --multirun datasz=100p model=gbt dataset=ABIDE repeat_time=5 pr
 
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=ZhihaoPENG-CityU/MM21---AGCN&type=Date)](https://star-history.com/#ZhihaoPENG-CityU/MM21---AGCN&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=CUHK-AIM-Group/GBT&type=Date)](https://star-history.com/#CUHK-AIM-Group/GBT&Date)
