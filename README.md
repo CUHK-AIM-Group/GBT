@@ -1,5 +1,4 @@
-# GBT: Geometric-oriented Brain Transformer for Autism Diagnosis
-[<a href="https://papers.miccai.org/miccai-2024/352-Paper2778.html">paper</a>]
+# GBT: Geometric-oriented Brain Transformer for Autism Diagnosis [<a href="https://papers.miccai.org/miccai-2024/352-Paper2778.html">paper</a>]
 
 [python-img]: https://img.shields.io/github/languages/top/ZhihaoPENG-CityU/MM21---AGCN?color=lightgrey
 [stars-img]: https://img.shields.io/github/stars/ZhihaoPENG-CityU/MM21---AGCN?color=yellow
